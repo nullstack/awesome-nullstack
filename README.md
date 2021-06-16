@@ -4,11 +4,11 @@
 
 # Awesome Nullstack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> All awesome resources involving the awesome Nullstack
+> All awesome resources involving the awesome Nullstack :sparkling_heart:
 
 [![license](https://img.shields.io/github/license/guidevloper/awesome-nullstack.svg)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/guidevloper/awesome-nullstack.svg)](https://github.com/guidevloper/awesome-nullstack/graphs/contributors)
-![Nullstack stars](https://img.shields.io/github/stars/nullstack/nullstack?label=Stars%20in%20Nullstack)
+[![Nullstack stars](https://img.shields.io/github/stars/nullstack/nullstack?label=Stars%20in%20Nullstack)](https://github.com/nullstack/nullstack/stargazers)
 
 - [Resources](#resources)
   - [Official Links](#official-links)
@@ -22,7 +22,9 @@
   - [Node/Element Plugins](#nodeelement-plugins)
 - [Projects using Nullstack](#projects-using-nullstack)
   - [Open Source](#open-source)
+  - [Enterprise Usage](#enterprise-usage)
 - [Waifu :revolving_hearts:](#waifu)
+- [Thanks](#thanks)
 
 ## Resources
 
@@ -79,7 +81,7 @@
 
 ### Open Source
 
-- [Nullstack Documentation](https://tipscode.com.br/) - ([code](https://github.com/nullstack/nullstack.github.io))
+- [Nullstack Documentation](https://nullstack.app/) - ([code](https://github.com/nullstack/nullstack.github.io))
 - [TipsCode Blog](https://tipscode.com.br) - ([code](https://github.com/TipsCode/tipscode.github.io))
 - [List of Repositories that depends on Nullstack package](https://github.com/nullstack/nullstack/network/dependents)
 
@@ -87,7 +89,7 @@
 
 - [AE Studio](https://ae.studio/)
 
-## Waifu :revolving_hearts:
+## Waifu
 
 - [Waifu Nulla-chan's official page](https://nullstack.app/waifu)
 - [Youtube playlist of videos related to Nulla](https://youtube.com/playlist?list=PL5ylYELQy1hwlYFDw1x20ICB2o9cFEXwJ)
